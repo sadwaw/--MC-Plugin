@@ -1,5 +1,5 @@
 # 春天霹雳的MC-Plugin
-![]([https://github.com/sadwaw/--MC-Plugin/blob/main/avatar.jpg?raw=true](https://avatars.githubusercontent.com/u/88182518?s=400&u=3857098d554cfd7f1763b1416d3591f314529171&v=4))
+![]([https://github.com/sadwaw/--MC-Plugin/blob/main/avatar.jpg?raw=true](https://avatars.githubusercontent.com/u/88182518?s=400&u=3857098d554cfd7f1763b1416d3591f314529171&v=4)
 
 ![](https://img.shields.io/github/stars/sadwaw/--MC-Plugin.svg) ![](https://img.shields.io/github/forks/sadwaw/--MC-Plugin.svg) ![](https://img.shields.io/github/tag/sadwaw/--MC-Plugin.svg) ![](https://img.shields.io/github/release/sadwaw/--MC-Plugin.svg) ![](https://img.shields.io/github/issues/sadwaw/--MC-Plugin.svg)
 
